@@ -1,0 +1,224 @@
+2026-07-17 17:40:03,740 - 105 - ERROR - logging_config - Player data is not available now or having troulble to load this data | Error : I/O operation on closed file.
+2026-07-17 17:44:31,687 - 105 - ERROR - logging_config - Player data is not available now or having troulble to load this data | Error : I/O operation on closed file.
+2026-07-18 21:40:09,993 | api.py | converted_csv_to_json | Line 105 | ERROR | Player data is not available now or having troulble to load this data | Error : I/O operation on closed file.
+2026-07-19 12:38:29,474 | api.py | get_server_data | Line 52 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv? Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-19 12:40:16,979 | api.py | get_server_data | Line 52 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv? Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-21 07:31:38,545 | api.py | get_clean_sheets | Line 143 | ERROR | invalid literal for int() with base 10: '19.0' Something went wronge try again.
+2026-07-28 13:29:21,604 | api.py | get_server_data | Line 58 | ERROR | Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 13:30:54,026 | api.py | get_server_data | Line 58 | ERROR | Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 13:36:37,832 | api.py | get_server_data | Line 58 | ERROR | Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 13:37:59,921 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/matches?language=en&count=500&idSeason=285023 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 13:58:05,936 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/matches?language=en&count=500&idSeason=285023 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 13:59:04,452 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/matches?language=en&count=500&idSeason=285023 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:00:05,440 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/matches?language=en&count=500&idSeason=285023 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:04:46,309 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/matches?language=en&count=500&idSeason=285023 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:29:05,658 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Read timed out. (read timeout=5)Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:42:45,689 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:42:55,992 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:43:06,074 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:43:16,122 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:43:26,181 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:43:36,253 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:43:46,312 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:43:56,381 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 14:44:06,447 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 18:55:45,638 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NewConnectionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to establish a new connection: [Errno 113] No route to host"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 18:55:55,814 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NewConnectionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to establish a new connection: [Errno 113] No route to host"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 18:56:05,864 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 18:56:15,929 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 18:56:25,980 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 18:56:36,036 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 19:44:12,120 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 20:05:12,440 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-28 20:05:22,543 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Max retries exceeded with url: /api/v3/calendar/17/285023/289273/standing?language=en&count=200 (Caused by NameResolutionError("HTTPSConnection(host='api.fifa.com', port=443): Failed to resolve 'api.fifa.com' ([Errno -3] Temporary failure in name resolution)"))Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 17:31:07,767 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 17:35:00,977 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 17:42:30,776 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 19:24:12,988 | api.py | get_server_data | Line 58 | ERROR | HTTPSConnectionPool(host='api.fifa.com', port=443): Read timed out. (read timeout=5)Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 19:24:59,815 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 21:21:44,153 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 21:22:53,036 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 21:24:37,541 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 21:25:39,063 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-07-31 21:33:58,969 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-08-01 07:23:41,849 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-08-01 07:26:23,654 | api.py | get_server_data | Line 58 | ERROR | Invalid URL 'players-selected-columns.csv': No scheme supplied. Perhaps you meant https://players-selected-columns.csv?Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-08-08 11:53:07,071 | api.py | get_server_data | Line 58 | ERROR | Latest data is currently unavailable, Displaying data from July 17, 2026 instead.
+2026-08-18 14:35:13,677 | api.py | save_server_data | Line 104 | ERROR | cannot access local variable 'filename' where it is not associated with a value
+2026-08-18 14:35:13,946 | api.py | save_server_data | Line 104 | ERROR | cannot access local variable 'filename' where it is not associated with a value
+2026-09-22 12:39:07,815 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-22 12:59:46,045 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:16:05,834 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:17:41,198 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:18:38,352 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:18:38,356 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:18:38,359 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:18:38,390 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:18:38,392 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:18:38,393 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:18:38,393 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:18:38,803 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:18:39,768 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:18:39,768 | project.py | format_knockout_bracket | Line 291 | ERROR | slice(None, None, None)
+2026-09-24 07:18:39,814 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:18:39,815 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:18:39,953 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:18:40,084 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:18:40,084 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:18:40,327 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:26:38,084 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:26:38,087 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:26:38,090 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:26:38,106 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:26:38,109 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:26:38,109 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:26:38,109 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:26:38,308 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:26:39,704 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:26:39,704 | project.py | format_knockout_bracket | Line 291 | ERROR | slice(None, None, None)
+2026-09-24 07:26:39,828 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:26:39,828 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:26:40,153 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:26:40,326 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:26:40,326 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:26:40,527 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:30:17,126 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:30:17,129 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:30:17,132 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:30:17,180 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:30:17,186 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:30:17,187 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:30:17,188 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:30:17,447 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:30:18,582 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:30:18,585 | project.py | format_knockout_bracket | Line 291 | ERROR | slice(None, None, None)
+2026-09-24 07:30:18,704 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:30:18,705 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:30:18,942 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:30:19,061 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:30:19,062 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:30:19,295 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:37:16,812 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:37:16,815 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:37:16,818 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:37:16,855 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:37:16,859 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:37:16,859 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:37:16,859 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:37:17,320 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:37:18,152 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:37:18,152 | project.py | format_knockout_bracket | Line 291 | ERROR | slice(None, None, None)
+2026-09-24 07:37:18,200 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:37:18,201 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:37:18,408 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:37:18,579 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:37:18,580 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:37:18,772 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:39:22,358 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:39:22,360 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:39:22,362 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:39:22,380 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:39:22,382 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:39:22,382 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:39:22,382 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:39:22,540 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:39:23,007 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:39:23,008 | project.py | format_knockout_bracket | Line 291 | ERROR | slice(None, None, None)
+2026-09-24 07:39:23,051 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:39:23,051 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:39:23,182 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:39:23,287 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:39:23,287 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:39:23,482 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:41:37,435 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:41:37,444 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:41:37,449 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:41:37,486 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:41:37,489 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:41:37,490 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:41:37,490 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:41:37,711 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:41:38,735 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:41:38,736 | project.py | format_knockout_bracket | Line 291 | ERROR | slice(None, None, None)
+2026-09-24 07:41:38,740 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:41:38,740 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:41:38,992 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:41:39,248 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:41:39,249 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:41:39,413 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:42:04,708 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:42:04,711 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:42:04,714 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:42:04,736 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:42:04,740 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:42:04,742 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:42:04,742 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:42:04,887 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:42:05,292 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:42:05,369 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:42:05,369 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:42:05,508 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:42:05,618 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:42:05,618 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:42:05,713 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:15,583 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:15,590 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:15,595 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:15,634 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:43:15,638 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:43:15,638 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:43:15,638 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:43:15,763 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:43:16,139 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:43:16,140 | project.py | format_knockout_bracket | Line 291 | ERROR | slice(None, None, None)
+2026-09-24 07:43:16,144 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:43:16,144 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:43:16,288 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:43:16,417 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:43:16,418 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:43:16,510 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:51,861 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:51,864 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:51,866 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:43:51,889 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:43:51,892 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:43:51,892 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:43:51,892 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:43:52,061 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:43:52,515 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:43:52,568 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:43:52,568 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:43:52,805 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:43:52,917 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:43:52,917 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:43:53,098 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:15,270 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:15,273 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:15,275 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:15,296 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:44:15,298 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:44:15,298 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:44:15,299 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:44:15,415 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:44:15,868 | project.py | format_knockout_bracket | Line 291 | ERROR | 'Stage'
+2026-09-24 07:44:15,873 | project.py | display_stage_results | Line 333 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:44:15,873 | project.py | display_stage_results | Line 333 | ERROR | 'Stage'
+2026-09-24 07:44:16,073 | project.py | process_player_stats | Line 407 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:44:16,215 | project.py | get_top_scorers | Line 365 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:44:16,216 | project.py | get_top_scorers | Line 365 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:44:16,408 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:49,629 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:49,634 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:49,637 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
+2026-09-24 07:44:49,681 | project.py | get_team_name | Line 74 | ERROR | 
+2026-09-24 07:44:49,685 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:44:49,686 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:44:49,686 | project.py | get_group_name | Line 113 | ERROR | An error occurred while parsing API data: 
+2026-09-24 07:44:50,139 | project.py | filter_teams_by_rank | Line 206 | ERROR | 'Position'
+2026-09-24 07:44:50,936 | project.py | format_knockout_bracket | Line 290 | ERROR | 'Stage'
+2026-09-24 07:44:50,939 | project.py | display_stage_results | Line 332 | ERROR | list indices must be integers or slices, not str
+2026-09-24 07:44:50,939 | project.py | display_stage_results | Line 332 | ERROR | 'Stage'
+2026-09-24 07:44:51,075 | project.py | process_player_stats | Line 406 | ERROR | 'gk_games' Something went wronge try again
+2026-09-24 07:44:51,212 | project.py | get_top_scorers | Line 364 | ERROR | cannot unpack non-iterable NoneType object
+2026-09-24 07:44:51,213 | project.py | get_top_scorers | Line 364 | ERROR | 'gk_clean_sheets'
+2026-09-24 07:44:51,395 | api.py | get_server_data | Line 54 | ERROR | Latest data is currently unavailable, Displaying data from July 19, 2026 instead.
