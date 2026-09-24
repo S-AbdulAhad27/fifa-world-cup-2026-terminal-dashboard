@@ -1,7 +1,7 @@
 # FIFA WORLD CUP 2026 TERMINAL DASHBOARD
 
 ####  CS50P Final Project Submission
-####  Video URL: [https://youtu.be/3hw0L69IV0o]
+####  [Video URL:](https://youtu.be/3hw0L69IV0o)
 
 ---
 
