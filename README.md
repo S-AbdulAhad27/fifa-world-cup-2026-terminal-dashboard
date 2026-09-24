@@ -55,7 +55,7 @@ This file contains all internet networking, data storage routines, and resilienc
 
 ### Step 1: Clone the Project
 ```bash
-  git clone https://github.com
+  [git clone ](https://github.com/S-AbdulAhad27/fifa-world-cup-2026-terminal-dashboard.git)
 cd S-AbdulAhad27
 ```
 
